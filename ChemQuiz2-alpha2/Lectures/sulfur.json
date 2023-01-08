@@ -1,0 +1,18 @@
+[
+  {
+  "contentType": "text",
+  "content": "<h2>硫黄</h2> <p>単体の硫黄には硫黄の同素体には斜方硫黄・単斜硫黄・ゴム状硫黄がある。多くの元素と反応して硫化物をつくる</p> <table border> <caption align=top>硫黄の同素体</caption> <tr> <td></td> <td><b>斜方硫黄</b></td> <td><b>単斜硫黄</b></td> <td><b>ゴム状硫黄</b></td> </tr> <tr> <td><b>分子式</b></td> <td>S<sub>8</sub> (環状)</td> <td>S<sub>8</sub> (環状)</td> <td>Sx (鎖状)</td> </tr> <tr> <td><b>状態</b></td> <td>黄色　塊状</td> <td>淡黄色　針状</td> <td>黄色ー褐色　ゴム状</td> </tr> <tr> <td><b>溶解性</b></td> <td colspan=\"2\">CS<sub>2</sub>に溶ける</td> <td>解けない</td> </tr> </table>"
+  },
+  {
+  "contentType": "text",
+  "content": "<h2>二酸化硫黄SO<sub>2</sub></h2> <p>二酸化硫黄は酸化剤・還元剤の両方のはたらきをする</p> <p>刺激臭をもつ無色の有毒気体</p> <p><b>SO2の実験室での製法</b></p> <ul> <li>銅と濃硫酸を加熱</li> Cu + 2H<sub>2</sub>SO<sub>4</sub> -> CuSO<sub>4</sub> + 2H<sub>2</sub>O + SO<sub>2</sub> ^ <li>亜硫酸水素ナトリウムに希硫酸を加える</li> NaHSO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> -> NaSO<sub>4</sub> + 2H<sub>2</sub>O + 2SO<sub>4</sub> ^ </ul>"
+  },
+  {
+  "contentType": "text",
+  "content": "<h2>硫化水素H<sub>2</sub>S</h2> <p><b>H<sub>2</sub>Sの実験室での製法</b></p> <ul> <li>硫化鉄（Ⅱ）に希硫酸を加える(塩酸でもいい)</li> FeS + H<sub>2</sub>SO<sub>4</sub> -> FeSO<sub>4</sub> + H<sub>2</sub>S ^ </ul>"
+  },
+  {
+  "contentType": "text",
+  "content": "<h2>硫酸</h2> <b>濃硫酸の特徴</b> <ul> <li>不揮発性</li> <li>脱水作用</li> <li>吸湿性</li> <p>吸水性が高いので、デジケーターなどに入れ、乾燥剤として用いられる</p> <li>酸化作用</li> </ul> <b>希硫酸</b> <p>強い酸性を示し、イオン化傾向が水素より大きい金属と反応して水素を発生する</p>"
+  }
+]

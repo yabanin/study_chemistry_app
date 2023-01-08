@@ -1,0 +1,42 @@
+[
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>炭素</h2> <p>14族に属する元素。4個の価電子をもち、他の原子と共有結合をつくる</p> <p>炭素Cには、ダイヤモンド、黒鉛、<b>フラーレン</b>、<b>カーボンナノチューブ</b>などの同素体が存在する。</p> <table border> <tr> <td></td> <td><b>ダイヤモンド</b></td> <td><b>黒鉛</b></td> </tr> <tr> <td><b>構造</b></td> <td>立体網目構造</td> <td>平面網目構造</td> </tr> <tr> <td><b>電気伝導性</b></td> <td>絶縁体</td> <td>導体</td> </tr> <tr> <td><b>用途</b></td> <td>宝石、研磨剤</td> <td>鉛筆の芯、電極</td> </tr> </table> <p></p> <table border> <tr> <td></td> <td>フラーレン</td> <td>カーボンナノチューブ</td> </tr> <tr> <td><b>構造</b></td> <td>C60、C70などの球状の構造</td> <td>チューブ（筒）状</td> </tr> </table>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>炭素の化合物</h2> <h3>一酸化炭素CO</h3> <ul> <li>酸素が不十分な環境で<b>不完全燃焼</b>を起こすと発生する気体。一酸化炭素中毒の原因となる。</li> <li>水に溶けにくく<b>無色無臭</b></li> <li>空気中で点火すると、青白い炎を出して燃えて、二酸化炭素になる。</li> <p>2CO + O<sub>2</sub> → 2CO<sub>2</sub></p> <li>製法</li> <p>ギ酸HCOOHに濃硫酸、加熱する</p> <p>HCOOH → H<sub>2</sub>O + CO↑</p> </ul>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h3>二酸化炭素CO<sub>2</sub></h3> <p>炭素単体や有機化合物の<b>燃焼によって生じる</b></p> <p>水に少し溶け、炭酸H2CO3となって電離する。そのため、水溶液は弱い酸性になる。</p> <h3>実験室での製法</h3> <p>石灰石（主成分　CaCO<sub>3</sub>）に希塩酸を加える。下方置換</p> <p>CaCO<sub>2</sub> + 2HCl → CaCl<sub>2</sub> + H<sub>2</sub>O + CO<sub>2</sub>↑</p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>ケイ素</h2> <p>地球の主要な構成元素のひとつ。<b>半導体</b>部品の非常に重要な物質である。</p> <p>単体は、主成分がSiO<sub>2</sub>のけい砂を<b>炭素で還元</b>して得られる。</p> <p>SiOO<sub>2</sub> + 2C → Si + 2CO</p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h3>二酸化ケイ素 SiO<sub>2</sub></h3> <p>岩石中に石英として多量に産出する無色の化合物。</p> <h3>二酸化ケイ素 SiO<sub>2</sub>からシリカゲル</h3> <p>二酸化ケイ素を水酸化ナトリウムとともに<b>加熱</b>すると<b>ケイ酸ナトリウム</b>Na<sub>2</sub>SiO<sub>3</sub>になる</p> <p>SiO<sub>2</sub> + Na<sub>2</sub>CO<sub>3</sub> → Na<sub>2</sub>SiO<sub>3</sub> + CO<sub>2</sub></p> <p>ケイ酸ナトリウムに水を加えて加熱すると<b>水ガラス</b>と呼ばれる粘性の大きな透明な液体が得られる</p> <p>水ガラスの水溶液に酸を加えると、<b>ケイ酸</b>SiO<sub>2</sub>・<i>n</i>H<sub>2</sub>Oがゲル状となり生成する</p> <p>ケイ酸を乾燥させると<b>シリカゲル</b>になる</p>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "周期表",
+        "overview": "周期表と元素の分類について",
+        "lecture": "periodic table.json",
+        "quiz": "PeriodicTableQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 2,
+        "name": "水素と希ガス",
+        "overview": "水素単体の性質とヘリウム、ネオン、アルゴンについて",
+        "lecture": "hydrogen.json",
+        "quiz": "HydrogenQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 3,
+        "name": "ハロゲン元素",
+        "overview": "フッ素・塩素・臭素・ヨウ素の性質",
+        "lecture": "halogen.json",
+        "quiz": "HalogenQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 4,
+        "name": "酸素とその化合物",
+        "overview": "酸素とオゾンの性質・オキソ酸について",
+        "lecture": "oxygen.json",
+        "quiz": "OxygenQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 5,
+        "name": "硫黄とその化合物",
+        "overview": "硫黄の性質と硫化水素、硫酸",
+        "lecture": "sulfur.json",
+        "quiz": "SulfurQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 6,
+        "name": "窒素とリン",
+        "overview": "単体の性質とその化合物について",
+        "lecture": "nitrogen.json",
+        "quiz": "NitrogenQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 0
+    },
+    {
+        "id": 7,
+        "name": "炭素とケイ素",
+        "overview": "炭素の同素体、ケイ素の性質について",
+        "lecture": "carbon.json",
+        "quiz": "CarbonQuiz.json",
+        "category": "inorganic",
+        "stars": 0,
+        "requireStars": 8
+    }
+]

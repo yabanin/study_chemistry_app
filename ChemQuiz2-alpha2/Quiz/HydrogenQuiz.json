@@ -1,0 +1,112 @@
+[
+    {
+        "question": "水素の分子量は（   ）である",
+        "answer": "2",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "水の分子の形は(   )である",
+        "answer": "折れ線",
+        "choice": [
+            "直線",
+            "三角錐",
+            "正四面体",
+            "折れ線"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "オゾンは水素の(   )である",
+        "answer": "同素体",
+        "choice": [
+            "単体",
+            "同素体",
+            "同位体",
+            "純物質"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "水素の原子番号は？",
+        "answer": "1",
+        "choice": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "水素の工業的製法で誤っているものを選びなさい",
+        "answer": "亜鉛に希硫酸を加える",
+        "choice": [
+            "水の電気分解",
+            "亜鉛に希硫酸を加える",
+            "ナフサの熱分解",
+            "水性ガスから水素を分離する"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "水素は最も密度が(   ),(   )気体",
+        "answer": "小さく、軽い",
+        "choice": [
+            "小さく、軽い",
+            "大きく、軽い",
+            "大きく、軽い",
+            "小さく、重い"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ヘリウムHe(2個)を除き希ガスの最外殻電子数は(   )個",
+        "answer": "8",
+        "choice": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "希ガス元素の分子は[]であり、融点・沸点は(   )",
+        "answer": "単原子分子・低い",
+        "choice": [
+            "単原子分子・低い",
+            "二原子分子・低い",
+            "単原子分子・高い",
+            "二原子分子・高い"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "亜鉛と硫酸を加えて、水素を生成する\nZn + H₂SO₄ → (     )",
+        "answer": "ZnSO₄ + H₂↑",
+        "choice": [
+            "ZnSO₄ + H₂↑",
+            "Zn+SO₄ + H₂↑",
+            "Zn+SO₂ + O₂+ H₂↑",
+            "ZnO +SO₃ + H₂↑"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "高音で水素は金属の酸化物などを還元する\nCuO + H₂ → (     )",
+        "answer": "Cu + H₂0",
+        "choice": [
+            "Cu + H₂0",
+            "Cu + H₂ + O₂",
+            "CuH₂O₂",
+            "CuH₂ + O₂"
+        ],
+        "isShufle": false
+    }
+]

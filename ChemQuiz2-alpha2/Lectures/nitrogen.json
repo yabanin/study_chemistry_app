@@ -1,0 +1,66 @@
+[
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>窒素・リン</h2> <ul> <li>窒素 Nとリン Pは15族元素に属する典型元素</li> <li>原子は<b>5個の価電子</b>をもつ</li> </ul> <h2>窒素</h2> <p>窒素 N<sub>2</sub>は、空気の<b>約78%</b>を占める気体。<b>液体窒素</b>は<b>冷却剤</b>として利用される。</p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>アンモニアNH3</h2> <p><b>刺激臭</b>をもつ無色の気体</p> <p>塩化水素と反応して<b>塩化アンモニウムの白煙</b>を生じる反応で検出する</p> <p>2NH<sub>3</sub> + HCl → NH<sub>4</sub>Cl</p> <ul> <li>実験室での製法</li> <p>塩化アンモニウムと水酸化カルシウムの混合物を加熱する(<b>弱塩基の遊離</b>)</p> <p>2NH<sub>4</sub>Cl + Ca(OH)<sub>2</sub> → CaCl<sub>2</sub> + 2H<sub>2</sub>O + 2NH<sub>3</sub> ↑</p> <li>工業的製法</li> <p><b>ハーバー・ボッシュ法</b>: Fe<sub>3</sub>O<sub>4</sub>を主成分とした触媒を用いて、<b>高温・高圧</b>で窒素と水素を合成する<p> <p>N<sub>2</sub> + 3H<sub>2</sub> ⇄<sup>触媒Fe<sub>3</sub>O<sub>4</sub></sup> ⇄　2HH<sub>3</sub></p> </ul>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>窒素酸化物</h2> <h3>一酸化窒素NO</h3> <p>水に溶けにくい<b>無色</b>の気体</p> <p>銅と希硝酸を反応させて発生する</p> <p>3Cu + 8 HNO<sub>3</sub>(希) → 3Cu(NO<sub>3</sub>)<sub>2</sub> + 4H<sub>2</sub>O + 2NO ↑</p> <p>空気中では<b>すぐに酸化</b>されて、<b>二酸化窒素</b>になる</p> <p>2NO + O<sub>2</sub> → 2NO<sub>2</sub></p> <h3>二酸化窒素NO<sub>2</sub></h3> <p>水に溶けやすい刺激臭をもつ<b>赤褐色</b>の有毒気体</p> <p>常温では、二酸化窒素の一部が無色の四酸化二窒素N<sub>2</sub>O<sub>4</sub>となり、平衡状態になっている</p> <p>2NO<sub>2</sub> ⇄ N<sub>2</sub>O<sub>4</sub></p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h3>NO と NO2 の性質</h3> <table border> <tr> <td></td> <td><b>一酸化窒素</b></td> <td><b>二酸化窒素</b></td> </tr> <tr> <td><b>色</b></td> <td>無色</td> <td>赤褐色</td> </tr> <tr> <td><b>常温での状態</b></td> <td colspan=\"2\">気体</td> </tr> <tr> <td><b>水溶性</b></td> <td>溶けにくい</td> <td>よく溶けて、酸性</td> </tr> <tr> <td><b>製法</b></td> <td>銅と希硝酸</td> <td>銅と濃硝酸</td> </tr> </table>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h3>硝酸</h3> <p>揮発性のある無色の液体で水に溶けやすい</p> <p>化学肥料、火薬、医薬品、染料の合成などに利用されている</p> <p>硝酸は光によって分解しやすいので、褐色びんに入れて保存する</p> <p><b>強い酸性</b>を示す、水素よりイオン化傾向の小さい銀や銅とも反応する</p> <p>Ag + 2HNO<sub>3</sub>(濃)　→ AgNO<sub>3</sub> + H<sub>2</sub>O + NO<sub>2</sub> ^</p> <p>鉄やアルミニウムを濃硝酸に入れると、表面に緻密（ちみつ）な酸化皮膜が形成されて、溶解しない</p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h3>オストワルト法</h3> <p>硝酸の工業的製法は<b>オストワルト法</b>という</p> <ol> <li>白金Ptを触媒にして、アンモニアと空気を約900°Cに加熱して酸化する</li> <p>4NH<sub>3</sub> + 5O<sub>2</sub> → 4NO + 6H<sub>2</sub>O</p> <li>一酸化窒素を酸化して二酸化窒素にする</li> <p>2NO + O<sub>2</sub> → 2NO<sub>2</sub> </p> <li>二酸化窒素を水と反応させる</li> <p>3NO<sub>2</sub> + H<sub>2</sub>O → 2HNO<sub>3</sub> + NO</p> </ol>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>リン</h2> <p>単体のリンは、<b>黄リン</b>と<b>赤リン</b>がある。 単体のリンは、<b>リン酸カルシウム</b>Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>を主成分とする鉱石に珪砂(けいしゃ)とコークスを混ぜて電気炉中で熱して作られる</p> <table border> <tr> <td></td> <td><b>黄リン</b></td> <td><b>赤リン</b></td> </tr> <tr> <td><b>分子形状</b></td> <td>正四面体分子</td> <td>網目状分子</td> </tr> <tr> <td><b>外観</b></td> <td>淡黄色　ロウ状固体</td> <td>暗赤色　粉末</td> </tr> <tr> <td><b>発火</b></td> <td>自然発火する</td> <td>自然発火しない</td> </tr> <tr> <td><b>CS<sub>2</sub>に</b></td> <td>溶ける</td> <td>溶けない</td> </tr> </table>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>リンの化合物</h2> <ul> <li>十酸化四リンP<sub>4</sub>O<sub>10</sub></li> <p>リンを空気中で燃やすと、<b>十酸化四リン</b>P<sub>4</sub>O<sub>10</sub>が得られる。乾燥剤や脱水剤に使われる</p> </ul> <h3>リン肥料</h3> <p>リン酸二水素カルシウムCa(H<sub>2</sub>PO4)<sub>2</sub> は水に溶け、リン肥料に用いる Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>は水に溶けない</p>"
+      }
+    ]
+  }
+]

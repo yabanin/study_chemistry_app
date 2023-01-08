@@ -1,0 +1,26 @@
+[
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>酸素</h2> <ul> <li>空気の<b>21%(体積)</b>を占める</li> <li><b>水の電気分解</b>によって得られる</li> </ul> <h3>実験室での製法</h3> <ul> <li>過酸化水素H<sub>2</sub>O<sub>2</sub>に水溶液と酸化マンガン(IV)を加える</li> 2H<sub>2</sub>O<sub>2</sub> -<sup>触媒MnO<sub>2</sub></sup>→ 2H<sub>2</sub>O + O<sub>2</sub>↑ <li>塩素酸カリウムKClO<sub>3</sub>と酸化マンガン(IV)の化合物を加熱する</li> KClO<sub>3</sub> -<sup>触媒MnO<sub>2</sub></sup>→ 2KCl + 3O<sub>2</sub>↑ </ul>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>オゾンO<sub>3</sub></h2> <p><b>特異臭</b>をもつ<b>淡青色</b>の有毒な気体。ヨウ化カリウムデンプン紙を青色にする</p> <p>O<sub>2</sub>中で<b>紫外線</b>を当てる。<b>無声放電</b>を行うと発生する</p> <p>3O<sub>2</sub> -<sup>無声放電</sup>→ 2O<sub>3</sub> </p>"
+      }
+    ]
+  },
+  {
+    "page": [
+      {
+      "contentType": "text",
+      "content": "<h2>酸化物</h2> <p>酸素は、非金属元素とは共有結合をつくり、金属元素とはイオン結合をつくる。酸素の化合物を化合物を<b>酸化物</b>という</p> <h2>オキソ酸</h2> <p>分子中に酸素を含む酸をオキソ酸という。オキソ酸は、中心となる元素の電気陰性度が大きいほど、強い酸になる　H<sup>+</sup>を放出しやすい</p>"
+      }
+    ]
+  }
+]

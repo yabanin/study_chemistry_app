@@ -1,0 +1,112 @@
+[
+    {
+        "question": "ハロゲン元素は(   )族に属する",
+        "answer": "17",
+        "choice": [
+            "16",
+            "15",
+            "17",
+            "18"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ハロゲン元素の最外殻電子数",
+        "answer": "7",
+        "choice": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ハロゲン元素の原子の価電子の数",
+        "answer": "7",
+        "choice": [
+            "5",
+            "6",
+            "7",
+            "0"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ハロゲン元素の原子は(   )価の(   )イオンになりやすい",
+        "answer": "1価の陰イオン",
+        "choice": [
+            "2価の陰イオン",
+            "1価の陽イオン",
+            "2価の陽イオン",
+            "1価の陰イオン"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "フッ素と塩素の常温での状態",
+        "answer": "フッ素: 気体、塩素: 気体",
+        "choice": [
+            "フッ素: 液体、塩素: 気体",
+            "フッ素: 気体、塩素: 液体",
+            "フッ素: 液体、塩素: 液体",
+            "フッ素: 気体、塩素: 気体"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "フッ素の色",
+        "answer": "淡黄色",
+        "choice": [
+            "緑黄色",
+            "赤褐色",
+            "赤褐色",
+            "淡青色"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "塩素の色",
+        "answer": "緑黄色",
+        "choice": [
+            "赤褐色",
+            "淡黄色",
+            "赤褐色",
+            "淡青色"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "臭素の色",
+        "answer": "赤褐色",
+        "choice": [
+            "緑黄色",
+            "淡黄色",
+            "赤褐色",
+            "淡青色"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ヨウ素の色",
+        "answer": "黒褐色",
+        "choice": [
+            "緑黄色",
+            "淡黄色",
+            "赤褐色",
+            "黒褐色"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ハロゲン元素の酸化力の強い順に並べなさい",
+        "answer": "F₂>Cl₂>Br₂>I₂",
+        "choice": [
+            "F₂>Cl₂>Br₂>I₂",
+            "I₂>Cl₂>Br₂>F₂",
+            "I₂>Br₂>Cl₂>F₂",
+            "Cl₂>F₂>Br₂>I₂"
+        ],
+        "isShufle": false
+    }
+]

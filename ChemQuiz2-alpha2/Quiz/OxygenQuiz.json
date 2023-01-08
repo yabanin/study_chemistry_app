@@ -1,0 +1,112 @@
+[
+    {
+        "question": "酸素の実験室での製法は、過酸化水素に触媒として(   ) を加える",
+        "answer": "二酸化マンガン",
+        "choice": [
+            "二酸化マンガン",
+            "塩化カリウム",
+            "塩素",
+            "塩酸"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "酸素は空気中に約(   )%存在する",
+        "answer": "21",
+        "choice": [
+            "11",
+            "16",
+            "21",
+            "26"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "オゾンは酸素の（   ）である",
+        "answer": "同素体",
+        "choice": [
+            "同位体",
+            "同素体",
+            "単体",
+            "化合物"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "オゾンは、酸素に（   ）をあてる、もしくは無声放電することによって得られる",
+        "answer": "紫外線",
+        "choice": [
+            "紫外線",
+            "赤外線",
+            "X線",
+            "磁気"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "オゾンは、ヨウ化カリウムデンプン紙を（   ）色にする",
+        "answer": "青",
+        "choice": [
+            "青",
+            "赤",
+            "緑",
+            "黄"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "分子中に酸素を含む酸を（   ）という",
+        "answer": "オキソ酸",
+        "choice": [
+            "ヒドロキシ基",
+            "アクア酸",
+            "リン酸",
+            "オキソ酸"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "オゾンは（   ）色、特異臭の気体。酸化力が（   ）",
+        "answer": "淡青、強い",
+        "choice": [
+            "淡緑、強い",
+            "淡青、弱い",
+            "淡緑、強い",
+            "淡青、弱い"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "酸素の実験室での製法、酸化マンガン(Ⅳ)(触媒)\n2H₂O₂ → (     )",
+        "answer": "2H₂O + O₂",
+        "choice": [
+            "2H₂O + O₂",
+            "H₂O + 2O₂",
+            "2H₂O + 2O₂",
+            "H₂O2₂+ O₂"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "塩素酸カリウムと酸化マンガン(Ⅳ)(触媒)の混合物を加熱して酸素を発生させる\n(     ) → 2KCl + 3O₂",
+        "answer": "2KClO₃",
+        "choice": [
+            "2KClO₃",
+            "2KClO₂",
+            "KClO₃",
+            "KClO₂"
+        ],
+        "isShufle": false
+    },
+    {
+        "question": "ヨウ化カリウム水溶液にオゾンを通じるとI-が酸化される\n2KI + O3 + H₂O → (     )",
+        "answer": "I₂ + 2KOH + O₂",
+        "choice": [
+            "I₂ + 2KOH + O₂",
+            "I₂ + 2KOOH",
+            "I₂ + 2KO₂ +H₂",
+            "2I₂ + 3KO₂ +H₂"
+        ],
+        "isShufle": false
+    }
+]
